@@ -1,0 +1,27 @@
+{
+  "name": "stackoerflow-crawler",
+  "version": "0.0.1",
+  "description": "A simple app that crawls stack overflow and outputs all json data collect to a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandrodvd/stackoerflow-crawler.git"
+  },
+  "keywords": [
+    "stackoverflow",
+    "api"
+  ],
+  "author": "leandrodvd@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandrodvd/stackoerflow-crawler/issues"
+  },
+  "homepage": "https://github.com/leandrodvd/stackoerflow-crawler#readme",
+  "dependencies": {
+    "async": "^1.5.2",
+    "request": "^2.69.0"
+  }
+}
